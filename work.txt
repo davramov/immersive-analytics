@@ -74,4 +74,5 @@ Project 1: VR Google Map Location History Data
 Project 2: IGM-Vis
 	Slides 
     	Description
-	Prototype 
+	Prototype
+	https://github.com/CreativeCodingLab/Intergalactic
