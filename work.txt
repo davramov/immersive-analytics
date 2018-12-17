@@ -1,0 +1,77 @@
+Immersive Analytics
+
+Coursework from UCSC CMPM 290A, Fall 2018
+
+HW1
+
+	Q1: Observe and describe a variety of experiences
+	where you feel particularly immersed?
+
+  	A1: I feel immersed while driving. It requires active
+	attention to the road and immediate surroundings. Not
+	only is the movement of the car I'm driving important,
+	but also all the other vehicles around me. When no other
+	cars around slowing me down, I have to be careful not
+	to drive too fast above the speed limit. Another consideration
+	is fuel economy, as the less gas I use the less often
+	I need to fill the tank.
+
+	
+	Creating music is another immersive experience. Many
+	elements must come together rhythmically and sonically.
+	Sometimes when playing an instrument or mixing in a DAW
+	I enter a state of flow. Solving coding problems is another
+	activity where I can feel immersed and within a state of flow,
+	driven by determination.
+	
+	
+  
+  	Q2: Observe and describe times when you are engaged
+	in some forms of analyzing.
+  
+	A2: Shopping is an activity that lends itself to analysis.
+	When I want to buy a product that is expensive, I like to
+	weigh all my options. Cost is usually always the main factor,
+	but so is quality. On most sites there is a rating system, which
+	is useful at first glance, but reading the product reviews
+	can uncover potential dealbreakers. When I am buying food and
+	looking to save money, I try to go for a high calorie to cost
+	ratio. Usually I try to plan dinner ahead of time, and when I buy
+	groceries I will buy the things I need when they are on sale,
+	and for certain things, I will buy the generic over the the name brand.
+	 
+HW2 
+
+	Write a short response describing the experience,
+	the interactions, the visuals, the sounds.
+	What did you like or not like? What aspects felt realistic,
+	interesting, immersive, engaging, off-putting, …?
+	Does VR provide you with something that can not be
+	replicated in more common media formats?
+
+	I found myself immersed within a Salvador Dali painting
+	in the VR application “Dreams of Dali.” This VR application
+	took me straight into Dali’s imagination. There was not much
+	to interact with, but I was able to stand and observe the space 
+	- much like in an art gallery or exhibit, and jump to other locations.
+	The sounds were ethereal and dreamlike. The visuals were
+	grandiose - elephants with incredibly long legs walking
+	in the desert, two towers reaching the sky. At one point
+	I was able to stand at the edge and look down from the top
+	of one of these towers. The sense of scale was enormous,
+	which I believe is not necessarily lacking in his original paintings,
+	but lacks a visceral quality that VR is able to provide.
+
+
+HW3 
+
+	PechaKucha slides
+ 
+
+Project 1: VR Google Map Location History Data
+	Source code
+
+Project 2: IGM-Vis
+	Slides 
+    	Description
+	Prototype 
